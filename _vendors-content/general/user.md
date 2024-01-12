@@ -15,6 +15,7 @@ _Settings > Apps > Your app > Battery > Optimize battery usage > All (from the t
 
 ### Android 8+
 
+
 Check if **Phone settings > Apps & Notifications > Your app > Background restrictions** or **Background limits** are not enabled for the app.
 
 If all fails you can turn Doze mode off completely.
